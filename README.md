@@ -16,7 +16,7 @@ Visit [Home Sales Dataset](https://2u-data-curriculum-team.s3.amazonaws.com/data
 
 **Query 2:** Average price of a home for each year it was built that has three bedrooms and three bathrooms 
  
-  <img width="155" alt="image" src="https://github.com/yeyanwang/Home_Sales/assets/120543690/3f9a7a9e-3ca6-4324-8446-622c3ed93d68">
+  <img width="155" alt="image" src="https://github.com/priyajainnyc/home-sales-big-data-challenge/assets/124069684/37d22975-b6e5-409a-a2db-4a9725912a4f">
 
 **Query 3:** Average price of a home for each year that has three bedrooms, three bathrooms, two floors, and is greater than or equal to 2,000 square feet
 
