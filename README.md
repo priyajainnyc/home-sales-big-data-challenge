@@ -24,7 +24,7 @@ Visit [Home Sales Dataset](https://2u-data-curriculum-team.s3.amazonaws.com/data
 
 **Query 4:** View rating for homes costing more than or equal to $350,000 group by view
  
-  <img width="350" alt="image" src="https://github.com/priyajainnyc/home-sales-big-data-challenge/assets/124069684/98e2470a-4304-45f1-a1ee-8dddf8320def">
+  <img width="50" alt="image" src="https://github.com/priyajainnyc/home-sales-big-data-challenge/assets/124069684/98e2470a-4304-45f1-a1ee-8dddf8320def">
 
 **Compare Run Times on Query 4**
 1. Uncache Runtime: 0.7982487678527832 seconds
