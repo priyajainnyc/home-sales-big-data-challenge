@@ -12,7 +12,7 @@ Visit [Home Sales Dataset](https://2u-data-curriculum-team.s3.amazonaws.com/data
 ## Analysis
 **Query 1:** Average price for a four-bedroom house sold for each year
 
-  <img width="147" alt="image" src="https://github.com/yeyanwang/Home_Sales/assets/120543690/edb7f4c8-0731-46fa-ac0f-c1b84a47ede0">
+  <img width="147" alt="image" src="https://github.com/priyajainnyc/home-sales-big-data-challenge/assets/124069684/aaec30fa-0d4c-475b-a7ce-61741aaf1fa4">
 
 **Query 2:** Average price of a home for each year it was built that has three bedrooms and three bathrooms 
  
