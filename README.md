@@ -20,11 +20,11 @@ Visit [Home Sales Dataset](https://2u-data-curriculum-team.s3.amazonaws.com/data
 
 **Query 3:** Average price of a home for each year that has three bedrooms, three bathrooms, two floors, and is greater than or equal to 2,000 square feet
 
-  <img width="155" alt="image" src="https://github.com/yeyanwang/Home_Sales/assets/120543690/d1aafe21-d5b5-43b7-b2e2-66af0c84b73c">
+  <img width="155" alt="image" src="https://github.com/priyajainnyc/home-sales-big-data-challenge/assets/124069684/ddd79553-844f-4e18-a8ec-de33712194b6">
 
 **Query 4:** View rating for homes costing more than or equal to $350,000 group by view
  
-  <img width="175" alt="image" src="https://github.com/yeyanwang/Home_Sales/assets/120543690/8064515d-6c0c-4ae2-bbf1-6a6ef6169884">
+  <img width="175" alt="image" src="https://github.com/priyajainnyc/home-sales-big-data-challenge/assets/124069684/98e2470a-4304-45f1-a1ee-8dddf8320def">
 
 **Compare Run Times on Query 4**
 1. Uncache Runtime: 1.3247380256652832 seconds
