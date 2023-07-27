@@ -27,6 +27,6 @@ Visit [Home Sales Dataset](https://2u-data-curriculum-team.s3.amazonaws.com/data
   <img width="175" alt="image" src="https://github.com/priyajainnyc/home-sales-big-data-challenge/assets/124069684/98e2470a-4304-45f1-a1ee-8dddf8320def">
 
 **Compare Run Times on Query 4**
-1. Uncache Runtime: 1.3247380256652832 seconds
-2. Cached Runtime: 0.5603408813476562 seconds
-3. Runtime with the parquet DataFrame: 0.9041104316711426 seconds
+1. Uncache Runtime: 0.7982487678527832 seconds
+2. Cached Runtime: 0.3733360767364502 seconds
+3. Runtime with the parquet DataFrame: 0.2964437007904053 seconds
